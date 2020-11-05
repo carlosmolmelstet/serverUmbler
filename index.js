@@ -8,8 +8,6 @@ app.get("/api", (req, res) => {
             id: 1,
             name: "camisa 1",
             description: "camiseta bonita e legal",
-            price: 55.99,
-            active: true
         }
     )
 })
